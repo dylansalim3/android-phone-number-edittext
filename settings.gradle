@@ -1,3 +1,3 @@
-include ':android-phone-number-input'
+include ':android-phone-number-edittext-with-country'
 include ':app'
 rootProject.name = "android-phone-number-input"
