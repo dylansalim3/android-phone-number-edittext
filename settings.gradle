@@ -1,0 +1,3 @@
+include ':android-phone-number-input'
+include ':app'
+rootProject.name = "android-phone-number-input"
