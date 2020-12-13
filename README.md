@@ -1,6 +1,6 @@
 # android-phone-number-input
 
-android-phone-number-input is A small UI library that allows you to create phone fields with corresponding country flags, and validate the phone number using libphonenumber from google. This project arr file was published using Jitpack.
+android-phone-number-input is A small UI library that allows you to create phone fields with corresponding country flags, and validate the phone number using libphonenumber from google. This project aar file was published using Jitpack.
 
 
 <img src="https://raw.githubusercontent.com/dylansalim3/android-phone-number-input/master/raw/phone-field.gif" alt="alt text" title="Sample App" style="max-width:100%;">
